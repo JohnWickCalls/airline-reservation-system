@@ -16,3 +16,14 @@ Login Authorization:
 
 Database Integration:
 * Utilizes MySQL database for storing and retrieving customer, flight, ticket, and admin data.
+
+## Sections and Functionalities
+* Login Page: Entry point for the system that validates user credentials and determines role access.
+
+* Customer Section: View customer details and manage customer-specific information.
+
+* Flight Section: View and manage flight schedules, destinations, and ticket availability.
+
+* Ticket Section: (User Role) Access to booking and ticketing information.
+
+Admin Section: (Admin Role) Access to administrative functionalities, such as user management
