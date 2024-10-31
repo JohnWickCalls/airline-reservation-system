@@ -9,3 +9,10 @@ Login Authorization:
 * Secure login system that authorizes roles, granting access based on the user's credentials.
 Database Integration:
 * Utilizes MySQL database for storing and retrieving customer, flight, ticket, and admin data.
+
+
+Login Authorization:
+* Secure login system that authorizes roles, granting access based on the user's credentials.
+
+Database Integration:
+* Utilizes MySQL database for storing and retrieving customer, flight, ticket, and admin data.
