@@ -26,4 +26,4 @@ Database Integration:
 
 * Ticket Section: (User Role) Access to booking and ticketing information.
 
-Admin Section: (Admin Role) Access to administrative functionalities, such as user management
+* Admin Section: (Admin Role) Access to administrative functionalities, such as user management
