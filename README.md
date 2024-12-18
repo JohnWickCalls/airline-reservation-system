@@ -11,11 +11,7 @@ Role-Based Access Control:
 * Database Integration: Utilizes MySQL database for storing and retrieving customer, flight, ticket, and admin data.
 
 
-Login Authorization:
-* Secure login system that authorizes roles, granting access based on the user's credentials.
-
-Database Integration:
-* Utilizes MySQL database for storing and retrieving customer, flight, ticket, and admin data.
+* Database Integration: Utilizes MySQL database for storing and retrieving customer, flight, ticket, and admin data.
 
 ## Sections and Functionalities
 * Login Page: Entry point for the system that validates user credentials and determines role access.
